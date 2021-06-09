@@ -21,8 +21,12 @@
 
 <h5>Ye dem stat ⚡</h5>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ozakione&label=Profile%20views&color=0e75b6&style=flat" alt="ozakione" /> </p>
+<p> <img src="https://komarev.com/ghpvc/?username=ozakione&label=Profile%20views&color=0e75b6&style=flat" alt="ozakione" /> </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=ozakione&show_icons=true&locale=en" alt="ozakione" /></p>
+<span>
+<img height="165px" src="https://github-readme-stats.vercel.app/api?username=ozakione&show_icons=true&locale=en&theme=dark" alt="ozakione" />
+</span>
 
-<p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ozakione&show_icons=true&locale=en&layout=compact" alt="ozakione" /></p>
+<span>
+<img height="165px" src="https://github-readme-stats.vercel.app/api/top-langs?username=ozakione&show_icons=true&locale=en&layout=compact&theme=dark" alt="ozakione" />
+</span>
