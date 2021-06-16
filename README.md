@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm ozaki</h1>
-<h3 align="center">A passionate junior developer which loves front and and aims to be a skilled fullstack dev</h3>
+<h3 align="center">A passionate junior developer which loves front and aims to be a skilled fullstack dev</h3>
 
 🌱 I’m currently learning **Multiple things listed below :)**
 
