@@ -3,7 +3,7 @@
 
 🌱 I’m currently learning **Multiple things listed below :)**
 
-👨‍💻 All of my projects are available [here](https://github.com/OzakIOne?tab=repositories&type=source)
+👨‍💻 [View my projects](https://github.com/OzakIOne?tab=repositories&type=source)
 
 📫 How to reach me **devozakione@gmail.com**
 
