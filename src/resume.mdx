@@ -1,0 +1,54 @@
+export const Techlist = ({ items }) => {
+ 
+  return (
+    <ul>
+      {items.map((i) => (
+        <li key={i.name} style={{ marginBottom: "6px" }}>
+          <a href={i.url} style={{ textDecoration: "none" }}>
+            {i.name}
+          </a>
+        </li>
+      ))}
+    </ul>
+  );
+};
+
+# Hi 👋, I'm ozaki
+
+👨‍💻 [View my projects](https://github.com/OzakIOne?tab=repositories&type=source)
+
+📫 You can reach me at <a href="mailto:devozakione@gmail.com">devozakione@gmail.com</a>
+
+❤ Passionate about video games, hardware, video encoding, volleyball, typescript.
+
+## Languages and Tools
+
+<Techlist
+  items={[
+    { name: "docker", url: "https://docker.com" },
+    { name: "git", url: "https://git-scm.com" },
+    { name: "react", url: "https://react.dev" },
+    { name: "typescript", url: "https://typescriptlang.org" },
+    { name: "tanstack", url: "https://tanstack.com" },
+    { name: "drizzle", url: "https://drizzle.team" },
+  ]}
+/>
+
+## Interested in
+
+<Techlist
+  items={[
+    { name: "effect", url: "https://effect.website" },
+    { name: "zig", url: "https://ziglang.org" },
+    { name: "rust", url: "https://rust-lang.org" },
+    { name: "adonisjs", url: "https://adonisjs.com" },
+    { name: "kubernetes", url: "https://kubernetes.io" },
+  ]}
+/>
+
+<p>
+  <img
+    src="https://komarev.com/ghpvc/?username=ozakione&label=Profile%20views&color=0e75b6&style=flat"
+    alt="ozakione"
+  />
+</p>
